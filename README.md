@@ -1,3 +1,6 @@
+### "R PROGRAMMING" - COURSERA ONLINE COURSE
+### by Johns Hopkins University
+
 ### Introduction
 
 This second programming assignment will require you to write an R
